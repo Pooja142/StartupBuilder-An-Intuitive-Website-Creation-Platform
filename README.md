@@ -1,3 +1,7 @@
+# StartUpBuilder
+StartUp Builder is a platform which helps the users ie small business and startups to grow, nuture, in their early stages. Startup Builder provides various features such as website builder, promote their business, find the investors for the business. Also they can learn from the investors and connect with them. Also there are some guides for the new users who just started their startup. Link for the StartupBuilder : https://startup-builder-835b1.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
