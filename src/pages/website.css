@@ -1,0 +1,19 @@
+.website_main {
+  background-image: url("../assest/image2.jpg");
+}
+.left_web {
+  font-size: 40px;
+  padding: 50px;
+}
+.left_img {
+  height: 37vh;
+  margin: 30px;
+  padding: 10px;
+}
+
+@media screen and (max-width: 1190px) {
+  .get {
+    display: flex;
+    justify-content: center;
+  }
+}

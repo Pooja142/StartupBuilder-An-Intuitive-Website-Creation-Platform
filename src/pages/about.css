@@ -1,0 +1,150 @@
+.about{
+    margin-top: 100px;
+
+}
+.titleabout{
+
+    letter-spacing: 0.03em;
+    margin-left:10px;
+    padding: 50px;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    line-height: normal;
+    text-align: center;
+    font-size: 60px;
+    pointer-events: auto;
+    
+}
+
+.pabout{
+
+    line-height: 1.8em;
+    font-size: 20px;
+    letter-spacing: normal;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.pabout p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    overflow-wrap: break-word;
+    text-align: start;
+    padding-left: 30px;
+    width: 80%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.pbox{
+
+ padding: 20px;
+ border-radius: 20px;
+ border: 1px dotted;
+ padding: 10px;
+ box-shadow: 5px 10px #888888;
+}
+
+.imgbg{
+  border-radius: 20px;
+}
+.team {
+    position: relative;
+    width: 100%;
+    padding: 45px 0 15px 0;
+  }
+  
+  .team .team-item {
+    position: relative;
+    margin-bottom: 30px;
+  }
+  
+  .team .team-img {
+    position: relative;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+  }
+  
+  .team .team-img img {
+    width: 100%;
+    transition: .3s;
+  }
+  
+  .team .team-item:hover img {
+    transform: scale(1.1);
+  }
+  
+  .team .team-text {
+    position: relative;
+    width: 100%;
+    padding: 35px 30px 30px 30px;
+    text-align: center;
+    background: #202C45;
+    border-radius: 0 0 5px 5px;
+    transition: .5s;
+  }
+  
+  .team .team-item:hover .team-text {
+    background: #E81C2E;
+  }
+  
+  .team .team-text h2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+  }
+  
+  .team .team-text p {
+    margin: 0;
+    color: #ffffff;
+  }
+  
+  .team .team-social {
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    top: -20px;
+    left: 0;
+    text-align: center;
+    font-size: 0;
+  }
+  
+  .team .team-social a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin: 0 3px;
+    padding: 7px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    background: #202C45;
+    border-radius: 40px;
+    transition: .5s;
+  }
+  
+  .team .team-item:hover .team-social a {
+    background: #E81C2E;
+  }
+  
+  .team .team-social a:hover {
+    color: #202C45;
+  }
+
+.imgbg{
+height: 100%;
+width: 100%;
+}
+  
+
+  

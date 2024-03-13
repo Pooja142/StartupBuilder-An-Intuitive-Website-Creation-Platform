@@ -1,0 +1,43 @@
+.title1 {
+  width: 40vw;
+  font-size: 48px;
+  font-weight: 600;
+  margin: auto;
+}
+
+
+
+.desc1 {
+  padding: 20px;
+  font-size: 20px;
+  line-height: 1.4em;
+  text-align: center;
+  width: 30vw;
+  margin: auto;
+}
+
+.te {
+  color: black;
+}
+.te:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+
+.img_box {
+  height: 250px;
+  width: 450px;
+}
+
+@media screen and (max-width: 1190px) {
+  .tempboxm {
+    margin: auto;
+    /* width: 500px; */
+  }
+
+  .img_box {
+    height: 150px;
+    width: 300px;
+  }
+}

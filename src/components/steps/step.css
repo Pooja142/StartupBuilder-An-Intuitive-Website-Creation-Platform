@@ -1,0 +1,48 @@
+.contact{
+
+}
+
+
+label {
+    color: #333
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 20px 20px 50px 15px grey;
+}
+
+.map{
+   
+    
+   
+
+}
+.con{
+    letter-spacing: 0.03em;
+    margin-left:10px;
+    padding: 50px;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    line-height: normal;
+    text-align: center;
+    font-size: 60px;
+    pointer-events: auto;  
+
+}

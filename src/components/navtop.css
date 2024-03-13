@@ -1,0 +1,130 @@
+.top-bar {
+    position: relative;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    background: rgb(0, 0, 0);
+    color: white;
+    border-bottom: 3px solid red;
+  }
+  
+  .top-bar .logo {
+    text-align: left;
+    overflow: hidden;
+  }
+  
+  .top-bar .logo h1 {
+    margin: -4px 0 0 0;
+    color: #E81C2E;
+    font-size: 30px;
+  
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-style: italic;
+  
+  }
+  
+  .system {
+    margin-right: 90px;
+  }
+  
+  .top-bar .logo h1 :hover {
+    text-decoration: none;
+  }
+  
+  .top-bar .logo img {
+    max-width: 100%;
+    max-height: 60px;
+  }
+  
+  .top-bar .top-bar-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+   
+  }
+  
+  .top-bar .top-bar-icon {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #202C45;
+    border-radius: 40px;
+  }
+  
+  .top-bar .top-bar-icon i {
+    margin: 0;
+    color: #ffffff;
+    font-size: 16px;
+  }
+  
+  .top-bar .top-bar-text {
+    padding-left: 15px;
+  }
+  
+  .top-bar .top-bar-text h3 {
+    margin: 0 0 5px 0;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .top-bar .top-bar-text p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+  } 
+  
+  @media (max-width: 991.98px) {
+    .top-bar .logo {
+      text-align: center;
+    }
+  
+    .system {
+      margin-right: 0px;
+    }
+  
+    .navbar-text {
+      position: relative;
+      left: 38vw;
+    }
+  }
+
+  
+.social {
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+  }
+  
+  .c {
+    color: white;
+  }
+  
+  .social a {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #202C45;
+    background: #ffffff;
+    border-radius: 40px;
+    margin-right: 5px;
+    transition: .5s;
+  }
+  
+  .social a:last-child {
+    margin: 0;
+  }
+  
+  .social a:hover {
+    color: #ffffff;
+    background: #E81C2E;
+  }
+
+  .c{
+    text-decoration: none;
+  }
+  
