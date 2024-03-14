@@ -35,18 +35,16 @@ Step 00: Requirements Need to be installed before Setup
   
 <b>Step 01:</b><i> Clone the repository</i><br>
   
-https://github.com/Pooja142/StartupBuilder-An-Intuitive-Website-Creation-Platform.git<br>
+`https://github.com/Pooja142/StartupBuilder-An-Intuitive-Website-Creation-Platform.git`<br>
   
 <b>Step 02:</b><i> Open the repository in any text editor (VScode, Atom, etc)</i><br>
 
 <b>Step 02:</b><i> Navigate to root directory</i><br>
 
 <b>Step 03:</b><i> Install dependencies/requirements</i><br>
-<p><ul>
-  <li>npm install</li>
-</ul></p>
+
+`npm install`
 
 <b>Step 04:</b><i> Run following command</i><br>
-<p><ul>
-  <li>npm start</li>
-</ul></p>
+
+`npm start`
