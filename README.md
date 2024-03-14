@@ -31,5 +31,22 @@ https://startup-builder-835b1.web.app/
 ## Project Installation and Setup
 Step 00: Requirements Need to be installed before Setup
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" alt="npm" width="40" height="40"/><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></a>
-</p>
-Step 01: Clone the repository
+</p><br>
+  
+<b>Step 01:</b><i> Clone the repository</i><br>
+  
+https://github.com/Pooja142/StartupBuilder-An-Intuitive-Website-Creation-Platform.git<br>
+  
+<b>Step 02:</b><i> Open the repository in any text editor (VScode, Atom, etc)</i><br>
+
+<b>Step 02:</b><i> Navigate to root directory</i><br>
+
+<b>Step 03:</b><i> Install dependencies/requirements</i><br>
+<p><ul>
+  <li>npm install</li>
+</ul></p>
+
+<b>Step 04:</b><i> Run following command</i><br>
+<p><ul>
+  <li>npm start</li>
+</ul></p>
